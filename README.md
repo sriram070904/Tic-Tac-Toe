@@ -1,7 +1,6 @@
 # 🎮 Tic-Tac-Toe (Python Console Game)
 
-A simple **console-based Tic-Tac-Toe** game built in Python.  
-Play against another human player in the terminal.
+A simple **console-based Tic-Tac-Toe** game built in Python. Play against another human player in the terminal.
 
 ---
 
